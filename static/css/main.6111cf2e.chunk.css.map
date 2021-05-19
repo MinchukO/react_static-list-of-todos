@@ -1,0 +1,1 @@
+{"version":3,"sources":["TodoList.scss","Todo.scss"],"names":[],"mappings":"AAAA,MACE,cAAe,CAChB,MAGC,4BAA8B,CAC9B,YAAa,CCNf,MACE,cAAe,CACf,aAAe","file":"main.6111cf2e.chunk.css","sourcesContent":[".user {\n  font-size: 18px;\n}\n\n.list {\n  border-bottom: 2px solid black;\n  padding: 20px;\n}\n",".todo {\n  font-size: 24px;\n  color: darkblue;\n}\n"]}
